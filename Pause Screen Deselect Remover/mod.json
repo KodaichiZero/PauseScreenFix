@@ -1,0 +1,9 @@
+{
+	"Id": "Pause Screen Fix",
+	"DisplayName": "Pause Screen Fix",
+	"Author": "KodaichiZero",
+	"Version": "1.0",
+	"Enable": true,
+	"Game": "BelowZero",
+	"AssemblyName": "PauseScreenFix.dll"
+}

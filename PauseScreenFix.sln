@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PauseScreenFix", "Pause Screen Deselect Remover\PauseScreenFix.csproj", "{B84F8FA8-7535-463E-9EBF-EFE7B3E188A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Mod Build|Any CPU = Mod Build|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84F8FA8-7535-463E-9EBF-EFE7B3E188A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84F8FA8-7535-463E-9EBF-EFE7B3E188A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84F8FA8-7535-463E-9EBF-EFE7B3E188A6}.Mod Build|Any CPU.ActiveCfg = Mod Build|Any CPU
+		{B84F8FA8-7535-463E-9EBF-EFE7B3E188A6}.Mod Build|Any CPU.Build.0 = Mod Build|Any CPU
+		{B84F8FA8-7535-463E-9EBF-EFE7B3E188A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84F8FA8-7535-463E-9EBF-EFE7B3E188A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {471E3834-5687-478D-903F-740C4E922CB2}
+	EndGlobalSection
+EndGlobal
